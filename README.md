@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/solution.png]
+![Solution Image](/images/solution.png)
 
 ### Links
 
-- Solution URL: [https://github.com/Astiaz/NFT-Preview-Card-Challenge]
-- Live Site URL: [https://astiaz.github.io/NFT-Preview-Card-Challenge/]
+- Solution URL: [Solution](https://github.com/Astiaz/NFT-Preview-Card-Challenge)
+- Live Site URL: [Solution Live Site](https://astiaz.github.io/NFT-Preview-Card-Challenge/https://your-live-site-url.com)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I think my major learning of this project was without a doubt how to overlay the icon, it took me a few more hours than I thought it would, triying on my own before I searched a similar solution on the web.
+I think my major learning of this project was without a doubt how to overlay the icon, it took me a few more hours than I thought it would, triying on my own before I searched a similar solution on the web
 
 ```html
 <figure class="card__figure">
