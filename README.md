@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/solution.png)
+![./images/solution.png]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Astiaz/NFT-Preview-Card-Challenge]
+- Live Site URL: [https://astiaz.github.io/NFT-Preview-Card-Challenge/]
 
 ## My process
 
