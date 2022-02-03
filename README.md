@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Astiaz/NFT-Preview-Card-Challenge)
-- Live Site URL: [Solution Live Site](https://astiaz.github.io/NFT-Preview-Card-Challenge/https://your-live-site-url.com)
+- Live Site URL: [Solution Live Site](https://astiaz.github.io/NFT-Preview-Card-Challenge/)
 
 ## My process
 
